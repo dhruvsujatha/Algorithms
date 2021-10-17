@@ -3,7 +3,7 @@
 ## List of Important Algorithms to Learn
 
 - [x] Linear Search
-- [ ] Binary Search
+- [x] Binary Search
 - [ ] Merge Sort
 - [ ] Depth-first Search
 - [ ] Breadth-first Search
