@@ -4,7 +4,7 @@
 
 - [x] Linear Search
 - [x] Binary Search
-- [ ] Merge Sort
+- [x] Merge Sort
 - [ ] Depth-first Search
 - [ ] Breadth-first Search
 - [ ] Quick Sort
